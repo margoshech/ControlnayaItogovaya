@@ -1,0 +1,15 @@
+D:\Controlnaya\ControlnayaItogovaya\obj\Debug\net6.0\ControlnayaItogovaya.csproj.AssemblyReference.cache
+D:\Controlnaya\ControlnayaItogovaya\obj\Debug\net6.0\ControlnayaItogovaya.GeneratedMSBuildEditorConfig.editorconfig
+D:\Controlnaya\ControlnayaItogovaya\obj\Debug\net6.0\ControlnayaItogovaya.AssemblyInfoInputs.cache
+D:\Controlnaya\ControlnayaItogovaya\obj\Debug\net6.0\ControlnayaItogovaya.AssemblyInfo.cs
+D:\Controlnaya\ControlnayaItogovaya\obj\Debug\net6.0\ControlnayaItogovaya.csproj.CoreCompileInputs.cache
+D:\Controlnaya\ControlnayaItogovaya\bin\Debug\net6.0\ControlnayaItogovaya.exe
+D:\Controlnaya\ControlnayaItogovaya\bin\Debug\net6.0\ControlnayaItogovaya.deps.json
+D:\Controlnaya\ControlnayaItogovaya\bin\Debug\net6.0\ControlnayaItogovaya.runtimeconfig.json
+D:\Controlnaya\ControlnayaItogovaya\bin\Debug\net6.0\ControlnayaItogovaya.dll
+D:\Controlnaya\ControlnayaItogovaya\bin\Debug\net6.0\ControlnayaItogovaya.pdb
+D:\Controlnaya\ControlnayaItogovaya\obj\Debug\net6.0\ControlnayaItogovaya.dll
+D:\Controlnaya\ControlnayaItogovaya\obj\Debug\net6.0\refint\ControlnayaItogovaya.dll
+D:\Controlnaya\ControlnayaItogovaya\obj\Debug\net6.0\ControlnayaItogovaya.pdb
+D:\Controlnaya\ControlnayaItogovaya\obj\Debug\net6.0\ControlnayaItogovaya.genruntimeconfig.cache
+D:\Controlnaya\ControlnayaItogovaya\obj\Debug\net6.0\ref\ControlnayaItogovaya.dll
